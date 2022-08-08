@@ -19,11 +19,11 @@
   ### Objetivo tornar me um full stack 💻📚
  
     - 🔎 Atualmente aberto a novas oportunidades.
-    - 📚 Cursando faculdade engenharia software e ex Estudante do Senai BackEnd PHP e Front End.
+    - 📚 Cursando faculdade engenharia software e ex Estudante do Senai BackEnd PHP.
     - 💬 Sobre mim: Aficionado por tecnologia, hardware, games é códigos!
     - 🕯️ 18 anos.
     - 🎓 Objetivo faculdade engenharia de software.
-    - 🥇 Linguagem preferida de programar PHP e python.  
+    - 🥇 Linguagem preferida de programar JAVA ,PHP e python.  
     - 📚 O que eu não posso criar, não entendo.(Feynman)
 
    <p>
