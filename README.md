@@ -97,7 +97,7 @@
 <!-- Estudando commit  -->
 ### 📚 Estudando no momento:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) | ![JAVA](https://img.shields.io/badge/-java-05122A?style=for-the-badge&logo=Java&logoColor=1572B6)| ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP&logoColor=1572B6) | ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend) | ![BackEnd](https://img.shields.io/badge/-BackEnd-05122A?style=for-the-badge&logo=BackEnd)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript) | ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=1572B6)| ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=PHP&logoColor=1572B6) | ![FrontEnd](https://img.shields.io/badge/-FrontEnd-05122A?style=for-the-badge&logo=frontend) | ![BackEnd](https://img.shields.io/badge/-BackEnd-05122A?style=for-the-badge&logo=BackEnd)
 
 
 <!-- Grafico -->
