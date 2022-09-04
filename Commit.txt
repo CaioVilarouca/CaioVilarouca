@@ -41,7 +41,7 @@
       <div align="center">  
         <!-- Skills -->
         <!-- C++ -->
-        <img alt="Caio-c++" height="50" style="margin: 10px" src=""/> 
+        <img alt="Caio-c++" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/c%2B%2B.svg"/> 
         <!-- HTML -->
         <img alt="Caio-HTML" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_html_icon_130541.svg"/> 
         <!-- CSS -->
