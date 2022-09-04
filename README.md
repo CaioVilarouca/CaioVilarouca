@@ -22,7 +22,7 @@
     - 📚 Cursando faculdade engenharia software e ex Estudante do Senai BackEnd PHP.
     - 💬 Sobre mim: Aficionado por tecnologia, hardware, games é códigos!
     - 🕯️ 18 anos.
-    - 🎓 Objetivo faculdade engenharia de software.
+    - 🎓 Estudando no momento Java e Wordpress.
     - 🥇 Linguagem preferida de programar JAVA ,PHP e python.  
     - 📚 O que eu não posso criar, não entendo.(Feynman)
 
@@ -98,8 +98,29 @@
 
 <!-- Estudando commit  -->
 ### 📚 Estudando no momento:
-<!-- C++ -->
-        <img alt="Caio-c++" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/c%2B%2B.svg"/> 
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <div align="left">  
+        <!-- Skills -->
+        <!-- Word-->
+        <img alt="Caio-Word" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/WordPress.svg"/> 
+        <!-- HTML -->
+        <img alt="Caio-HTML" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_html_icon_130541.svg"/> 
+        <!-- CSS -->
+        <img alt="Caio-CSS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_css_icon_130661.svg"/>
+        <!-- Js -->
+        <img alt="Caio-JS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_js_official_icon_130509.svg"/>
+        <!-- C++ -->
+        <img alt="Caio-c++" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/c%2B%2B.svg"/>
+        <!-- PHP -->
+        <img alt="Caio-PHP" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/php_icon_130857.svg"/>
+        <!-- Java -->
+        <img alt="Caio-Java" height="33" style="margin: 10px"     src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/java_original_wordmark_logo_icon_146459.svg"/>
+      </div>
+    </td>
+  </tr>
+</table>  
 
 
 <!-- Grafico -->
