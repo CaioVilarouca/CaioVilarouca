@@ -7,6 +7,8 @@
 </h1>
   
 # 👔 ![CaioVilarouca](https://img.shields.io/badge/%20-EU%20SOU%20%20CAIO%20VILAROUCA!-black) 
+### 🎓 Formação Acadêmica: 
+#### 💻 Engenheira de Software
 
 <!-- Sobre Mim  -->
 <details>
