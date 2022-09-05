@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td valign="top" width="100%">
-      <div align="center">  
+      <div align="justify">  
         <!-- Skills -->
         <!-- HTML -->
         <img alt="Caio-HTML" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_html_icon_130541.svg"/> 
