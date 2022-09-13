@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+import java.util.Scanner;
+
+public class teste{
+	public static void main(String[] args){
+	
+	
+		System.out.println("Qual cadastro voce deseja fazer?    Aluno  ou  Professor  ");
+		String geral = scanner.next();
+		
+		while{
+			if(geral.equals(Aluno) || geral.equals(aluno) || geral.equals(professor)|| geral.equals(Professor)){
+				System.out.println("Sucesso");
+			}else{
+				System.out.println("Voce digitou errado");
+				String geral = scanner.next();
+			}
+		}
+			
+		System.out.println("fim");
+	}
+}
