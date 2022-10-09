@@ -6,7 +6,7 @@
   <img src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/Caio%20Vilarouca.gif">
 </h1>
   
-# 👔 ![CaioVilarouca](https://img.shields.io/badge/%20-EU%20SOU%20%20CAIO%20VILAROUCA!-black) 
+# 👔 ![CaioVilara](https://img.shields.io/badge/%20-DESENVOLVEDOR%20%20CAIO%20VILAROUCA-black) 
 ###  🎓 Formação Acadêmica: 
 #### 💻 Engenheira de Software
 
