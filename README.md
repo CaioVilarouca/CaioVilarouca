@@ -48,8 +48,6 @@
         <img alt="Caio-CSS" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_css_icon_130661.svg"/>
         <!-- Js -->
         <img alt="Caio-JS" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_js_official_icon_130509.svg"/>
-        <!-- C++ -->
-        <img alt="Caio-c++" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/c%2B%2B.svg"/>
         <!-- PHP -->
         <img alt="Caio-PHP" height="50" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/php_icon_130857.svg"/>
         <!-- Python -->
@@ -113,8 +111,6 @@
         <img alt="Caio-CSS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_css_icon_130661.svg"/>
         <!-- Js -->
         <img alt="Caio-JS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_js_official_icon_130509.svg"/>
-        <!-- C++ -->
-        <img alt="Caio-c++" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/c%2B%2B.svg"/>
         <!-- PHP -->
         <img alt="Caio-PHP" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/php_icon_130857.svg"/>
         <!-- Java -->
