@@ -23,8 +23,8 @@
     - 🔎 Atualmente aberto a novas oportunidades.
     - 📚 Cursando faculdade engenharia software e ex Estudante do Senai BackEnd PHP.
     - 💬 Sobre mim: Aficionado por tecnologia, hardware, games é códigos!
-    - 🕯️ 18 anos.
-    - 🎓 Estudando no momento Java e Wordpress.
+    - 🕯️ 19 anos.
+    - 🎓 Estudando no momento Java e spring boot.
     - 🥇 Linguagem preferida de programar JAVA ,PHP e python.  
     - 📚 O que eu não posso criar, não entendo.(Feynman)
 
@@ -103,8 +103,6 @@
     <td valign="top" width="100%">
       <div align="left">  
         <!-- Skills -->
-        <!-- Word-->
-        <img alt="Caio-Word" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/WordPress.svg"/> 
         <!-- HTML -->
         <img alt="Caio-HTML" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_html_icon_130541.svg"/> 
         <!-- CSS -->
