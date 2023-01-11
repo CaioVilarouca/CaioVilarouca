@@ -100,15 +100,13 @@
 ### 📚 Estudando no momento:
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="100%" >
       <div align="left">  
         <!-- Skills -->
         <!-- HTML -->
         <img alt="Caio-HTML" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_html_icon_130541.svg"/> 
         <!-- CSS -->
         <img alt="Caio-CSS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_css_icon_130661.svg"/>
-        <!-- Js -->
-        <img alt="Caio-JS" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/file_type_js_official_icon_130509.svg"/>
         <!-- PHP -->
         <img alt="Caio-PHP" height="33" style="margin: 10px" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/img/php_icon_130857.svg"/>
         <!-- Java -->
