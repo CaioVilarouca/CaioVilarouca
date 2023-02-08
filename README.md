@@ -34,14 +34,14 @@
 
 <!-- Icon-->
 <div style="display: inline_block"><br>
-  <img align-"center" alt="Caio-Js" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/java/java-original.svg"> 
-  <img align-"center" alt="Caio-Spring" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/spring/spring-original.svg">
-  <img align-"center" alt="Caio-An" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/angularjs/angularjs-original.svg">
-  <img align-"center" alt="Caio-ty" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/typescript/typescript-original.svg">
-  <img align-"center" alt="Caio-html" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/html5/html5-original.svg">
-  <img align-"center" alt="Caio-css" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/css3/css3-original.svg">
-  <img align-"center" alt="Caio-boot" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/bootstrap/bootstrap-original.svg">
-  <img align-"center" alt="Caio-php" height="40" width="50" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/php/php-original.svg">
+  <img align-"center" alt="Caio-Js" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/java/java-original.svg"> 
+  <img align-"center" alt="Caio-Spring" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/spring/spring-original.svg">
+  <img align-"center" alt="Caio-An" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/angularjs/angularjs-original.svg">
+  <img align-"center" alt="Caio-ty" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/typescript/typescript-original.svg">
+  <img align-"center" alt="Caio-html" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/html5/html5-original.svg">
+  <img align-"center" alt="Caio-css" height="30" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/css3/css3-original.svg">
+  <img align-"center" alt="Caio-boot" height="35" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/bootstrap/bootstrap-original.svg">
+  <img align-"center" alt="Caio-php" height="35" width="40" src="https://github.com/CaioVilarouca/CaioVilarouca/blob/main/icons/php/php-original.svg">
 <div/>
 
   ##
