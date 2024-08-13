@@ -18,8 +18,8 @@
     - 🔎 Atualmente aberto a novas oportunidades.
     - 📚 Cursando faculdade engenharia software.
     - 💬 Sobre mim: Aficionado por tecnologia, hardware, games é códigos!
-    - 🗓️ 19 anos.
-    - 🎓 Altuamente estudando Java e spring boot.
+    - 🗓️ 20 anos.
+    - 🎓 Altuamente estudando Java e Spring boot.
     - 🥇 Linguagem preferida de programar JAVA ,PHP.  
     - 📖 O que eu não posso criar, não entendo.(Feynman)
 </details>
