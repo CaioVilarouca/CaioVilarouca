@@ -22,6 +22,7 @@
     - 🎓 Altuamente estudando Java e Spring boot.
     - 🥇 Linguagem preferida de programar JAVA ,PHP.  
     - 📖 O que eu não posso criar, não entendo.(Feynman)
+    - 📖 Se você quer chegar onde a maioria não chega, faça o que a maioria não faz.(Bill Gates)
 </details>
 
 <!-- Grafico -->
