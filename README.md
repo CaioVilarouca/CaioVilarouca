@@ -24,8 +24,8 @@
 </details>
 
 <!-- Grafico -->
+### 📈 GitHub Análise
 <div align="center">
-  ### 📈 GitHub Análise
   <a href="https://github.com/caiovilarouca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovilarouca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovilarouca&layout=compact&langs_count=7&theme=tokyonight"/>
