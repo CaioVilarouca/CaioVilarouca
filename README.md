@@ -23,9 +23,16 @@
 <!-- Grafico -->
 ### 📈 GitHub Análise
 <div align="center">
-  <a href="https://github.com/caiovilarouca"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovilarouca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovilarouca&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=21600"/>
+  <a href="https://github.com/caiovilarouca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovilarouca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
+<div align="center">
+  <a href="https://github.com/caiovilarouca">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovilarouca&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-vilarouca/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  /></a>
