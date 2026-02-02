@@ -1,6 +1,6 @@
 
 # 👔 ![CaioVilara](https://img.shields.io/badge/%20-DESENVOLVEDOR%20%20CAIO%20VILAROUCA-black) 
-###  🎓 Formação Acadêmica: 💻 Engenheira de Software 4°Semestre 👨‍💻
+###  🎓 Formação Acadêmica: 💻 Engenheira de Software 5°Semestre 👨‍💻
 
 <!-- Sobre Mim  -->
 <details>
