@@ -13,7 +13,7 @@
     - 🔎 Atualmente aberto a novas oportunidades.
     - 📚 Cursando faculdade engenharia de software na UDF Brasília.
     - 💬 Sobre mim: Aficionado por tecnologia, hardware, games é códigos!
-    - 🗓️ 21 anos.
+    - 🗓️ 22 anos.
     - 🎓 Altuamente estudando Java e Spring boot.
     - 🥇 Linguagem preferida de programar JAVA, C++ e PHP.  
     - 📖 O que eu não posso criar, não entendo.(Feynman Richard)
